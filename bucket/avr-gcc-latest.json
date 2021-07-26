@@ -47,8 +47,8 @@
         "bin\\avr-strings.exe",
         "bin\\avr-strip.exe",
         "bin\\avrdude.exe"
-        ],
-    "checkver": "avr-gcc-(.+)-x64",
+    ],
+    "checkver": "AVR-GCC ([\\d.]+) for",
     "autoupdate": {
         "architecture": {
             "64bit": {
