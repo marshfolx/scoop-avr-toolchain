@@ -24,7 +24,6 @@
         "bin\\avr-cpp.exe",
         "bin\\avr-elfedit.exe",
         "bin\\avr-g++.exe",
-        "bin\\avr-gcc-$version.exe",
         "bin\\avr-gcc-ar.exe",
         "bin\\avr-gcc-nm.exe",
         "bin\\avr-gcc-ranlib.exe",
