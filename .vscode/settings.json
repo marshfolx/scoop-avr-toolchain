@@ -54,4 +54,15 @@
             ".github/workflows/*",
         ],
     },
+    "cSpell.words": [
+        "filt",
+        "gcov",
+        "gprof",
+        "objcopy",
+        "objdump",
+        "ranlib",
+        "readelf",
+        "zak",
+        "zak's"
+    ],
 }
